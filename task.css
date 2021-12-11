@@ -1,0 +1,77 @@
+body{
+    background-color:rgb(230,220,270);
+    
+}
+header.tribute{
+    border-style: groove;
+    width: 100%;
+    height: 60px;
+    font-size: 23px;
+    text-align: center;
+    color: white;
+    background-color:rgb(58, 51, 51);    
+    line-height: 60px;
+    vertical-align: middle;
+    font-family: "Arial";
+    font-weight: bold;
+
+}
+header.tribute img{
+    position: absolute;
+     top: 10px;
+     left: 10px;
+     width:250px
+
+
+}
+body h1{
+    text-align: center;
+    color: green; 
+    font-size: 30px;
+}
+p.equation{
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+    margin: 0px 0px 100px 0px;
+    color: blue;   
+    font-weight: bold; 
+}
+img.scientist{
+    position: absolute;
+     top: 180px;
+     left: 605px;
+}
+p.caption{
+    font-weight: bold;
+    position: absolute;
+     top: 360px;
+     left: 580px;
+}
+p.caption2{
+    font-weight: bold;
+    position: absolute;
+     top: 390px;
+     left: 510px;
+}
+ol.main{
+    list-style-type: square; 
+    position: absolute;
+     top: 420px;
+     left: 10px;
+     font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+
+}
+ol.main h1{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: blue;
+    
+
+}
+ol.main p{
+    color:red;
+    font-weight: bold;
+}
